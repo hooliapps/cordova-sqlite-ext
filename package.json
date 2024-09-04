@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/litehelpers/cordova-sqlite-ext",
   "dependencies": {
-    "cordova-sqlite-ext": "git+https://github.com/hooliapps/cordova-sqlite-ext-deps.git"
+    "cordova-sqlite-ext": "https://github.com/hooliapps/cordova-sqlite-ext-deps.git"
   },
   "scripts": {
     "clean-spec": "rm -rf spec/[mnp]* && git cl spec/config.xml spec/package.json && git status --ignored",
