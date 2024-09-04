@@ -1,3 +1,10 @@
+# WARNING TEST PLUGIN
+
+This plugin is forked from https://github.com/brodycj/cordova-sqlite-ext, and only provided to test the compilation of new Libs for Android 15 16Kb Page Size.
+
+
+
+
 # Cordova/PhoneGap sqlite storage adapter with extra features
 
 Native SQLite component with API based on HTML5/[Web SQL (DRAFT) API](http://www.w3.org/TR/webdatabase/) for the following platforms:
